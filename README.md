@@ -1,6 +1,8 @@
 # taxi_service
 
-A new Flutter application.
+Taxi Service UI made using flutter.
+
+![](screenshot.png)
 
 ## Getting Started
 
